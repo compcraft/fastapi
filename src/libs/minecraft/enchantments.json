@@ -1,0 +1,268 @@
+[
+  {
+    "name": "aqua_affinity",
+    "display_name": "Aqua Affinity",
+    "description": "Increases underwater mining speed.",
+    "applies_to": "Helmets",
+    "max_level": 1
+  },
+  {
+    "name": "bane_of_arthropods",
+    "display_name": "Bane of Arthropods",
+    "description": "Increases damage and applies Slowness IV to arthropod mobs (spiders, cave spiders, silverfish, endermites and bees).",
+    "applies_to": "Swords, Axes",
+    "max_level": 5
+  },
+  {
+    "name": "binding_curse",
+    "display_name": "Curse of Binding",
+    "description": "Items cannot be removed from armor slots, except in Creative mode or due to death or breaking.",
+    "applies_to": "Wearable",
+    "max_level": 1
+  },
+  {
+    "name": "blast_protection",
+    "display_name": "Blast Protection",
+    "description": "Reduces explosion damage and knockback.",
+    "applies_to": "Armor",
+    "max_level": 4
+  },
+  {
+    "name": "channeling",
+    "display_name": "Channeling",
+    "description": "Trident \"channels\" a bolt of lightning toward a hit entity. Functions only during thunderstorms and if target is unobstructed with opaque blocks.",
+    "applies_to": "Tridents",
+    "max_level": 1
+  },
+  {
+    "name": "depth_strider",
+    "display_name": "Depth Strider",
+    "description": "Increases underwater movement speed.",
+    "applies_to": "Boots",
+    "max_level": 3
+  },
+  {
+    "name": "efficiency",
+    "display_name": "Efficiency",
+    "description": "Increases mining speed. When applied to an Axe it increases the chance that the axe may stun a shield, with the base chance being 25% and a 5% increase for each level of efficiency.",
+    "applies_to": "Tools",
+    "max_level": 5
+  },
+  {
+    "name": "feather_falling",
+    "display_name": "Feather Falling",
+    "description": "Reduces fall damage.",
+    "applies_to": "Boots",
+    "max_level": 4
+  },
+  {
+    "name": "fire_aspect",
+    "display_name": "Fire Aspect",
+    "description": "Sets target on fire.",
+    "applies_to": "Swords",
+    "max_level": 2
+  },
+  {
+    "name": "fire_protection",
+    "display_name": "Fire Protection",
+    "description": "Reduces fire damage and burn time. Mutually exclusive with other protections.",
+    "applies_to": "Armor",
+    "max_level": 4
+  },
+  {
+    "name": "flame",
+    "display_name": "Flame",
+    "description": "Arrows set the target on fire, and ignite TNT if hit.",
+    "applies_to": "Bows",
+    "max_level": 1
+  },
+  {
+    "name": "fortune",
+    "display_name": "Fortune",
+    "description": "Increases certain block drops. Higher levels increase chances.",
+    "applies_to": "Tools",
+    "max_level": 3
+  },
+  {
+    "name": "frost_walker",
+    "display_name": "Frost Walker",
+    "description": "Turns water beneath the player into frosted ice and prevents the damage the player would take from standing on magma blocks.",
+    "applies_to": "Boots",
+    "max_level": 2
+  },
+  {
+    "name": "impaling",
+    "display_name": "Impaling",
+    "description": "Trident deals additional damage to mobs that spawn naturally in the ocean.",
+    "applies_to": "Tridents",
+    "max_level": 5
+  },
+  {
+    "name": "infinity",
+    "display_name": "Infinity",
+    "description": "Shooting consumes no regular arrows. Does not include Tipped Arrows or Spectral Arrows.",
+    "applies_to": "Bows",
+    "max_level": 1
+  },
+  {
+    "name": "knockback",
+    "display_name": "Knockback",
+    "description": "Increases knockback.",
+    "applies_to": "Swords",
+    "max_level": 2
+  },
+  {
+    "name": "looting",
+    "display_name": "Looting",
+    "description": "Increases mob loot. Higher levels increase loot dropped.",
+    "applies_to": "Swords",
+    "max_level": 3
+  },
+  {
+    "name": "loyalty",
+    "display_name": "Loyalty",
+    "description": "Trident returns after being thrown. Higher levels reduce return time.",
+    "applies_to": "Tridents",
+    "max_level": 3
+  },
+  {
+    "name": "luck_of_the_sea",
+    "display_name": "Luck of the Sea",
+    "description": "Increases rate of good loot (enchanting books, etc.). Higher Levels Increase chance.",
+    "applies_to": "Fishing Rods",
+    "max_level": 3
+  },
+  {
+    "name": "lure",
+    "display_name": "Lure",
+    "description": "Decreases wait time until fish/junk/loot \"bites\". Higher Levels increase speed.",
+    "applies_to": "Fishing Rods",
+    "max_level": 3
+  },
+  {
+    "name": "mending",
+    "display_name": "Mending",
+    "description": "Repair the item while gaining XP orbs.",
+    "applies_to": "All",
+    "max_level": 1
+  },
+  {
+    "name": "multishot",
+    "display_name": "Multishot",
+    "description": "Shoot 3 arrows in a spread at the cost of one; only one arrow can be recovered.",
+    "applies_to": "Crossbows",
+    "max_level": 1
+  },
+  {
+    "name": "piercing",
+    "display_name": "Piercing",
+    "description": "Arrows pass through multiple entities and Shields; arrows can be recovered after passing through entities. Available only to the crossbow.",
+    "applies_to": "Crossbows",
+    "max_level": 4
+  },
+  {
+    "name": "power",
+    "display_name": "Power",
+    "description": "Increases arrow damage.",
+    "applies_to": "Bows",
+    "max_level": 5
+  },
+  {
+    "name": "projectile_protection",
+    "display_name": "Projectile Protection",
+    "description": "Reduces projectile damage such as damage from arrows, thrown tridents, ghast and blaze fireballs, etc.",
+    "applies_to": "Armor",
+    "max_level": 4
+  },
+  {
+    "name": "protection",
+    "display_name": "Protection",
+    "description": "Reduces most types of damage by 4%\u200c for each level.",
+    "applies_to": "Armor",
+    "max_level": 4
+  },
+  {
+    "name": "punch",
+    "display_name": "Punch",
+    "description": "Increases arrow knockback.",
+    "applies_to": "Bows",
+    "max_level": 2
+  },
+  {
+    "name": "quick_charge",
+    "display_name": "Quick Charge",
+    "description": "Decreases crossbow charging time.",
+    "applies_to": "Crossbows",
+    "max_level": 3
+  },
+  {
+    "name": "respiration",
+    "display_name": "Respiration",
+    "description": "Extends underwater breathing time. Stacks with a Turtle Shell",
+    "applies_to": "Helmets",
+    "max_level": 3
+  },
+  {
+    "name": "riptide",
+    "display_name": "Riptide",
+    "description": "Trident launches player with itself when thrown. Functions only in water or rain.",
+    "applies_to": "Tridents",
+    "max_level": 3
+  },
+  {
+    "name": "sharpness",
+    "display_name": "Sharpness",
+    "description": "Increases damage for melee weapons.",
+    "applies_to": "Swords, Axes",
+    "max_level": 5
+  },
+  {
+    "name": "silk_touch",
+    "display_name": "Silk Touch",
+    "description": "Mined blocks drop themselves, with a few exceptions.",
+    "applies_to": "Tools",
+    "max_level": 1
+  },
+  {
+    "name": "smite",
+    "display_name": "Smite",
+    "description": "Increases damage to undead mobs.",
+    "applies_to": "Swords, Axes",
+    "max_level": 5
+  },
+  {
+    "name": "soul_speed",
+    "display_name": "Soul Speed",
+    "description": "Increases walking speed on soul sand or Soul Soil, but damages the Boots overtime",
+    "applies_to": "Boots",
+    "max_level": 3
+  },
+  {
+    "name": "sweeping",
+    "display_name": "Sweeping Edge",
+    "description": "Increases sweeping attack damage.",
+    "applies_to": "Swords",
+    "max_level": 3
+  },
+  {
+    "name": "thorns",
+    "display_name": "Thorns",
+    "description": "Reflects some of the damage taken when hit, at the cost of reducing durability with each proc.",
+    "applies_to": "Chests",
+    "max_level": 3
+  },
+  {
+    "name": "unbreaking",
+    "display_name": "Unbreaking",
+    "description": "Reduces the chance of an item taking damage. Higher levels reduce the chance further.",
+    "applies_to": "All",
+    "max_level": 3
+  },
+  {
+    "name": "vanishing_curse",
+    "display_name": "Curse of Vanishing",
+    "description": "Item destroyed on death.",
+    "applies_to": "All",
+    "max_level": 1
+  }
+]

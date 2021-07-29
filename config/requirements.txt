@@ -1,0 +1,5 @@
+fastapi
+mcstatus
+sqlalchemy
+pymysql
+pymongo
